@@ -11,10 +11,10 @@ In these repositories you can see as a portfolio, some proofs of concept created
 
 - 👀 I’m interested in almost any topic about :
 
-- C#
-- Clean code
-- Architectures
-- Agile methodologies
+ > C#
+ > Clean code
+ > Architectures
+ > Agile methodologies
 
 - 🌱 I’m currently learning Blazor
 
