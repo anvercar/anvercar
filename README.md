@@ -11,15 +11,16 @@ In these repositories you can see as a portfolio, some proofs of concept created
 
 - 👀 I’m interested in almost any topic about :
 
- > C#
- > Clean code
- > Architectures
- > Agile methodologies
+  - C#
+  - Clean code
+  - Architectures
+  - Agile methodologies
 
 - 🌱 I’m currently learning Blazor
 
-- 📫 How to reach me: 
-                       anvercar@outlook.com
+- :point_right: How to reach me: 
+  - :mailbox: anvercar@outlook.com 
+  - :link: https://www.linkedin.com/in/anvercar/
 
 <!---
 anvercar/anvercar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
